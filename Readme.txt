@@ -1,6 +1,3 @@
-
-
-````markdown name=README.md
 # Yashu's Kitchen
 
 A modern, responsive website for Yashu's Kitchen built with **HTML**, **CSS**, **Bootstrap**, and enhanced with some **JavaScript** and **PHP**. This project showcases a stylish and user-friendly design for a kitchen or food-related business.
@@ -80,4 +77,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Yashu's Kitchen** – The taste of home, on the web.
 
-````
+
